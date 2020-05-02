@@ -1,0 +1,6 @@
+com/example/myapp/dao/PersonDao.class
+com/example/myapp/DemoApplication.class
+com/example/myapp/model/Person.class
+com/example/myapp/api/PersonController.class
+com/example/myapp/service/PersonService.class
+com/example/myapp/dao/FakePersonDao.class
